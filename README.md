@@ -21,3 +21,4 @@ this is a comment added by Rupal
 9 git merge
 10 git checkout -b branch_name
 11 git checkout brnach_name
+12 git restore --staged <file name>
